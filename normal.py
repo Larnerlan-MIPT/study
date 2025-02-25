@@ -5,3 +5,4 @@ c = show.a()
 print(c)
 
 print('Svyatik_zov')
+print('ok')
