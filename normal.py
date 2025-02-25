@@ -1,0 +1,1 @@
+print('Svyatik_zov')
